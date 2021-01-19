@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am a research scientist working in the areas of industrial artificial intelligence (IndustrialAI), machine learning, and data science. While I have worked in diverse application domains and topics such as wind turbines, manufacturing networks, robotics, self, simulation, and airspace safety, my main research emphasis is in systems anomaly detection using structured and unstructured data. That is, I develop algorithms through which machines can self-diagnose their condition and predict their future failures.
+
+
 Currently, I am a Member of Research Staff at [PARC](www.parc.com), excited about applied ML research that involves converting ML theory and algorithms to real-world problems. I got certified by AWS as "Machine Learning Specialty" (the highest rank in ML certification track).Prior to joining PARC, I had a Ph.D. in Mechanical Engineering that involved big data analytics.  I am now working on a Masters in Computer Science degree from Georgia Institute of Technology (started in Fall 2018). Courses I enjoyed the most is Reinforcement Learning (literally openned another door for my research).
 
 
